@@ -1,5 +1,4 @@
 ### 👋
 
-- 🔭 Currently working on Multiple Data Analysis and Viz Projects
+- 🔭 Interest in Dataviz 
 - 🌱 Learning experimentation in ML
-- 👯 Looking to collaborate on utilization of data for social impact.
